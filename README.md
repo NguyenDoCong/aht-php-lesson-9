@@ -7,3 +7,8 @@
 - Chuẩn thiết kế CSDL
 - FK có thể liên kết tới chính PK của cùng bảng
 - Self join
+### 21/11
+- Kích hoạt php ext
+- Kết nối php với mysql sử dụng pdo
+- Module hóa website
+
