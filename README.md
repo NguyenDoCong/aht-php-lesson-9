@@ -11,5 +11,3 @@
 - Kích hoạt php ext
 - Kết nối php với mysql sử dụng pdo
 - Module hóa website
-### 22/11
-- Dùng param thay vì cộng chuỗi trong query
